@@ -1,4 +1,4 @@
-# Hi, I'm Enderman.
+# 👋 - Hi, I'm Enderman.
 
 ## About me:
 - I live in Germany
